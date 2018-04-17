@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="aiLevelNames">
+    <item>Level 1</item>
+    <item>Level 2</item>
+    <item>Level 3</item>
+    <item>Level 4</item>
+  </string-array>
+    <string-array name="aiLevelValues">
+    <item>0</item>
+    <item>1</item>
+    <item>2</item>
+    <item>3</item>
+  </string-array>
+    <string name="Blue">Spieler Blau</string>
+    <string name="Green">Spieler Grün</string>
+    <string name="Orange">Spieler Orange</string>
+    <string name="Red">Spieler Rot</string>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Zur Startseite"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Nach oben"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Weitere Optionen"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Fertig"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Alle ansehen"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"App auswählen"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"Aus"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"An"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Suchen…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Suchanfrage löschen"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Suchanfrage"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Suchen"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Suchanfrage senden"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Sprachsuche"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Freigeben für"</string>
+    <string msgid="3300176832234831527" name="abc_shareactionprovider_share_with_application">"Mit <ns1:g id="APPLICATION_NAME">%s</ns1:g> teilen"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Minimieren"</string>
+    <string name="aiLevel_dialog">Spielstärke auswählen</string>
+    <string name="aiLevel_title">Spielstärke</string>
+    <string name="ai_description">Computer übernimmt Grün, Blau und Gelb</string>
+    <string name="ai_title">Computergegner</string>
+    <string name="back">Zurück</string>
+    <string name="cancel">Abbrechen</string>
+    <string name="congratulations">Herzlichen Glückwunsch, du hast gewonnen. Punkte: </string>
+    <string name="delete">Löschen</string>
+    <string name="displaySeeds_description">Felder markieren, an denen Anlegen möglich ist.</string>
+    <string name="displaySeeds_title">Anlegepunkte zeigen</string>
+    <string name="flip">Stein spiegeln</string>
+    <string name="help">Hilfe</string>
+    <string name="howToPlay_text_1">
+		Benutze Drag&amp;Drop und Wisch-Gesten, um Teile zu platzieren:
+		\n- Navigiere durch deine verbleibenden Teile mit Wischen.
+	</string>
+    <string name="howToPlay_text_2">- Wähle und ziehe ein Teil auf das Spielbrett. Jetzt kannst du es umherziehen, indem du den großen grauen Kreis berührst.</string>
+    <string name="howToPlay_text_3">- Drehe das Teil, indem du einen der Griffe benutzt.</string>
+    <string name="howToPlay_text_4">
+		- Du kannst ein Teil spiegeln, indem du es lange berührst.
+		\nDu kannst auch über das Menü ein Teil spiegeln, das ist besonders bei Tablets nützlich.
+		\n- Mit dem roten Knopf kannst du einen Zug abbrechen. Er setzt das Teil zurück in deinen Bestand.
+		\n- Wenn der Zug gültig ist, erscheint ein grüner \'ok\' Knopf. Du kannst den Zug ausführen, indem du darauf drückst!
+	</string>
+    <string name="howToPlay_text_5">
+		- Du kannst jederzeit die verbleibenden Teile deiner Gegner sehen : wähle einfach unten den Reiter der entsprechenden Farbe aus.
+		\n- Wenn du gegen den Computer gewinnst, kannst du eine höhere Spielstärke auswählen : Menü > Einstellungen.
+	</string>
+    <string name="howToPlay_title">Kurzanleitung für die Blokish Android App</string>
+    <string name="i_pass">Aussetzen</string>
+    <string name="if_you_enjoy">Wenn dir Blokish gefällt, magst du es bewerten?</string>
+    <string name="later">Später</string>
+    <string name="never">Nein</string>
+    <string name="new_game">Neues Spiel</string>
+    <string name="newnew">Neu</string>
+    <string name="no">Nein</string>
+    <string name="now">Ja</string>
+    <string name="online">Spielen Sie online</string>
+    <string name="preferences">Einstellungen</string>
+    <string name="quit">Spiel verlassen?</string>
+    <string name="red_ko">Rot hat keine Züge mehr</string>
+    <string name="rules_text_1">
+		- Ein Spielbrett mit 20 * 20 Kästchen.
+		\n- 4 Spieler, die jeweils 21 Teile haben : 1 einzelnes Viereck, 1 Domino, 2 Triominos, 5 Tetraminos und 12 Pentaminos
+		\n- Jeder Spieler muss so viele Teile wie möglich auf das Spielbrett legen.
+		\n- Das erste Teil muss so gelegt werden, dass es eine der Ecken des Spielbretts berührt.
+		\n- Die darauf folgenden Teile müssen so gelegt werden, dass sie eine Ecke der eigenen Teile berühren. Sie dürfen mehrere Ecken auf einmal, aber keine Kante eines Teils berühren!
+	</string>
+    <string name="rules_text_2">
+		- Wenn man kein Teil mehr legen kann, muss man seinen Zug überspringen.
+		\n- Das Spiel endet, wenn kein Spieler mehr Teile legen kann.
+		\n- Die Punktzahl eines Spielers ist gleich der Anzahl von Vierecken der eigenen Teile, die auf dem Spielbrett liegen.
+	</string>
+    <string name="rules_title">Regeln des Spiels Blokus Classic</string>
+    <string msgid="146198913615257606" name="search_menu_title">"Suchen"</string>
+    <string name="social">Social</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="try_next">Versuche das nächste Level.</string>
+    <string name="undo">Rückgängig</string>
+    <string name="video_description_1">Drücke auf das Bild um ein Demo-Video auf YouTube abzuspielen</string>
+    <string name="video_description_2">Du kannst das Video vergrößern, indem du das Handy quer hältst</string>
+    <string name="wins_with_score">gewinnt mit Punkten</string>
+    <string name="yes">Ja</string>
+</resources>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="org.scoutant.blokish"
+    android:versionCode="20"
+    android:versionName="3.2" >
+
+    <uses-sdk
+        android:minSdkVersion="18"
+        android:targetSdkVersion="25" />
+
+    <uses-permission android:name="android.permission.VIBRATE" />
+
+    <uses-feature
+        android:name="android.hardware.screen.portrait"
+        android:required="true" />
+    <uses-feature
+        android:name="android.hardware.touchscreen"
+        android:required="true" />
+
+    <supports-screens
+        android:largeScreens="true"
+        android:normalScreens="true"
+        android:smallScreens="false"
+        android:xlargeScreens="true" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/blokish2"
+        android:label="Blokish"
+        android:theme="@style/Theme.AppCompat.Light.NoActionBar" >
+        <activity
+            android:name="org.scoutant.blokish.UI"
+            android:exported="true"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="org.scoutant.blokish.Settings"
+            android:label="@string/preferences"
+            android:parentActivityName="org.scoutant.blokish.UI"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.Holo.Calendar" />
+        <activity
+            android:name="org.scoutant.blokish.Help"
+            android:label="Help"
+            android:parentActivityName="org.scoutant.blokish.UI"
+            android:screenOrientation="portrait" />
+    </application>
+
+</manifest> <!-- TODO issue #4 : when same score : last player wins : adapt the message. -->

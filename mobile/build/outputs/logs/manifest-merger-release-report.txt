@@ -1,0 +1,142 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/macintosh/Downloads/blokish-master/mobile/src/main/AndroidManifest.xml:2:1-37:12
+INJECTED from /Users/macintosh/Downloads/blokish-master/mobile/src/main/AndroidManifest.xml:2:1-37:12
+INJECTED from /Users/macintosh/Downloads/blokish-master/mobile/src/main/AndroidManifest.xml:2:1-37:12
+MERGED from [com.android.support:design:27.0.2] /Users/macintosh/.gradle/caches/transforms-1/files-1.1/design-27.0.2.aar/464911437bd6508438cc17f93f63674c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.0.2] /Users/macintosh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/103aa2c70ae55377cd5407feca4ab64e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:27.0.2] /Users/macintosh/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.2.aar/2d0b16c0755cddf7ade08781fb319521/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.0.2] /Users/macintosh/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/434ca4f269b2fd83c16edad2cb4e7792/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.2] /Users/macintosh/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/4ae26a98c9cb97f70047f860a6824b47/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /Users/macintosh/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/11e0833beff24d4eebe77227886e228f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /Users/macintosh/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/3ed0455d9de88412464835341a2528b0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.0.2] /Users/macintosh/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/09860ef70635af4fec1d236f7b04a760/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.0.2] /Users/macintosh/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.0.2.aar/bb5e3478644954661a16c7bc25664d11/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.2] /Users/macintosh/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/d32cc5c7ff7436b18846c7cc0386f196/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.0.2] /Users/macintosh/.gradle/caches/transforms-1/files-1.1/transition-27.0.2.aar/e0d143418fbe9594eef34f3566b1de98/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.2] /Users/macintosh/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/ffb1e86c339d1c2084aba6ddca2161b5/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /Users/macintosh/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/990282eac231c90532424a5e0c19fadc/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/macintosh/Downloads/blokish-master/mobile/src/main/AndroidManifest.xml:2:1-37:12
+INJECTED from /Users/macintosh/Downloads/blokish-master/mobile/src/main/AndroidManifest.xml:2:1-37:12
+	package
+		ADDED from /Users/macintosh/Downloads/blokish-master/mobile/src/main/AndroidManifest.xml:2:70-100
+	android:versionName
+		ADDED from /Users/macintosh/Downloads/blokish-master/mobile/src/main/AndroidManifest.xml:3:27-52
+		INJECTED from /Users/macintosh/Downloads/blokish-master/mobile/src/main/AndroidManifest.xml
+		INJECTED from /Users/macintosh/Downloads/blokish-master/mobile/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/macintosh/Downloads/blokish-master/mobile/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /Users/macintosh/Downloads/blokish-master/mobile/src/main/AndroidManifest.xml:3:2-26
+		INJECTED from /Users/macintosh/Downloads/blokish-master/mobile/src/main/AndroidManifest.xml
+		INJECTED from /Users/macintosh/Downloads/blokish-master/mobile/src/main/AndroidManifest.xml
+uses-sdk
+ADDED from /Users/macintosh/Downloads/blokish-master/mobile/src/main/AndroidManifest.xml:5:5-74
+MERGED from [com.android.support:design:27.0.2] /Users/macintosh/.gradle/caches/transforms-1/files-1.1/design-27.0.2.aar/464911437bd6508438cc17f93f63674c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.0.2] /Users/macintosh/.gradle/caches/transforms-1/files-1.1/design-27.0.2.aar/464911437bd6508438cc17f93f63674c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] /Users/macintosh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/103aa2c70ae55377cd5407feca4ab64e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] /Users/macintosh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/103aa2c70ae55377cd5407feca4ab64e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] /Users/macintosh/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.2.aar/2d0b16c0755cddf7ade08781fb319521/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] /Users/macintosh/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.2.aar/2d0b16c0755cddf7ade08781fb319521/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] /Users/macintosh/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/434ca4f269b2fd83c16edad2cb4e7792/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] /Users/macintosh/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/434ca4f269b2fd83c16edad2cb4e7792/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] /Users/macintosh/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/4ae26a98c9cb97f70047f860a6824b47/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] /Users/macintosh/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/4ae26a98c9cb97f70047f860a6824b47/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /Users/macintosh/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/11e0833beff24d4eebe77227886e228f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /Users/macintosh/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/11e0833beff24d4eebe77227886e228f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /Users/macintosh/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/3ed0455d9de88412464835341a2528b0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /Users/macintosh/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/3ed0455d9de88412464835341a2528b0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] /Users/macintosh/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/09860ef70635af4fec1d236f7b04a760/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] /Users/macintosh/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/09860ef70635af4fec1d236f7b04a760/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.0.2] /Users/macintosh/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.0.2.aar/bb5e3478644954661a16c7bc25664d11/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.0.2] /Users/macintosh/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.0.2.aar/bb5e3478644954661a16c7bc25664d11/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] /Users/macintosh/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/d32cc5c7ff7436b18846c7cc0386f196/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] /Users/macintosh/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/d32cc5c7ff7436b18846c7cc0386f196/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.0.2] /Users/macintosh/.gradle/caches/transforms-1/files-1.1/transition-27.0.2.aar/e0d143418fbe9594eef34f3566b1de98/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.0.2] /Users/macintosh/.gradle/caches/transforms-1/files-1.1/transition-27.0.2.aar/e0d143418fbe9594eef34f3566b1de98/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] /Users/macintosh/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/ffb1e86c339d1c2084aba6ddca2161b5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] /Users/macintosh/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/ffb1e86c339d1c2084aba6ddca2161b5/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /Users/macintosh/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/990282eac231c90532424a5e0c19fadc/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /Users/macintosh/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/990282eac231c90532424a5e0c19fadc/AndroidManifest.xml:20:5-22:41
+	android:targetSdkVersion
+		ADDED from /Users/macintosh/Downloads/blokish-master/mobile/src/main/AndroidManifest.xml:5:42-71
+	android:minSdkVersion
+		ADDED from /Users/macintosh/Downloads/blokish-master/mobile/src/main/AndroidManifest.xml:5:15-41
+uses-permission#android.permission.VIBRATE
+ADDED from /Users/macintosh/Downloads/blokish-master/mobile/src/main/AndroidManifest.xml:7:2-62
+	android:name
+		ADDED from /Users/macintosh/Downloads/blokish-master/mobile/src/main/AndroidManifest.xml:7:19-60
+uses-feature#android.hardware.screen.portrait
+ADDED from /Users/macintosh/Downloads/blokish-master/mobile/src/main/AndroidManifest.xml:9:2-89
+	android:required
+		ADDED from /Users/macintosh/Downloads/blokish-master/mobile/src/main/AndroidManifest.xml:9:64-87
+	android:name
+		ADDED from /Users/macintosh/Downloads/blokish-master/mobile/src/main/AndroidManifest.xml:9:16-63
+uses-feature#android.hardware.touchscreen
+ADDED from /Users/macintosh/Downloads/blokish-master/mobile/src/main/AndroidManifest.xml:10:2-85
+	android:required
+		ADDED from /Users/macintosh/Downloads/blokish-master/mobile/src/main/AndroidManifest.xml:10:60-83
+	android:name
+		ADDED from /Users/macintosh/Downloads/blokish-master/mobile/src/main/AndroidManifest.xml:10:16-59
+supports-screens
+ADDED from /Users/macintosh/Downloads/blokish-master/mobile/src/main/AndroidManifest.xml:12:2-137
+	android:largeScreens
+		ADDED from /Users/macintosh/Downloads/blokish-master/mobile/src/main/AndroidManifest.xml:12:78-105
+	android:smallScreens
+		ADDED from /Users/macintosh/Downloads/blokish-master/mobile/src/main/AndroidManifest.xml:12:20-48
+	android:normalScreens
+		ADDED from /Users/macintosh/Downloads/blokish-master/mobile/src/main/AndroidManifest.xml:12:49-77
+	android:xlargeScreens
+		ADDED from /Users/macintosh/Downloads/blokish-master/mobile/src/main/AndroidManifest.xml:12:106-134
+application
+ADDED from /Users/macintosh/Downloads/blokish-master/mobile/src/main/AndroidManifest.xml:14:2-36:16
+	android:label
+		ADDED from /Users/macintosh/Downloads/blokish-master/mobile/src/main/AndroidManifest.xml:14:49-72
+	android:icon
+		ADDED from /Users/macintosh/Downloads/blokish-master/mobile/src/main/AndroidManifest.xml:14:15-48
+	android:allowBackup
+		ADDED from /Users/macintosh/Downloads/blokish-master/mobile/src/main/AndroidManifest.xml:16:6-32
+	android:theme
+		ADDED from /Users/macintosh/Downloads/blokish-master/mobile/src/main/AndroidManifest.xml:15:6-62
+activity#org.scoutant.blokish.UI
+ADDED from /Users/macintosh/Downloads/blokish-master/mobile/src/main/AndroidManifest.xml:17:3-26:14
+	android:screenOrientation
+		ADDED from /Users/macintosh/Downloads/blokish-master/mobile/src/main/AndroidManifest.xml:20:7-43
+	android:exported
+		ADDED from /Users/macintosh/Downloads/blokish-master/mobile/src/main/AndroidManifest.xml:19:4-27
+	android:theme
+		ADDED from /Users/macintosh/Downloads/blokish-master/mobile/src/main/AndroidManifest.xml:18:4-60
+	android:name
+		ADDED from /Users/macintosh/Downloads/blokish-master/mobile/src/main/AndroidManifest.xml:17:13-31
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/macintosh/Downloads/blokish-master/mobile/src/main/AndroidManifest.xml:22:4-25:20
+action#android.intent.action.MAIN
+ADDED from /Users/macintosh/Downloads/blokish-master/mobile/src/main/AndroidManifest.xml:23:5-57
+	android:name
+		ADDED from /Users/macintosh/Downloads/blokish-master/mobile/src/main/AndroidManifest.xml:23:13-54
+category#android.intent.category.LAUNCHER
+ADDED from /Users/macintosh/Downloads/blokish-master/mobile/src/main/AndroidManifest.xml:24:5-65
+	android:name
+		ADDED from /Users/macintosh/Downloads/blokish-master/mobile/src/main/AndroidManifest.xml:24:15-62
+activity#org.scoutant.blokish.Settings
+ADDED from /Users/macintosh/Downloads/blokish-master/mobile/src/main/AndroidManifest.xml:27:3-31:9
+	android:screenOrientation
+		ADDED from /Users/macintosh/Downloads/blokish-master/mobile/src/main/AndroidManifest.xml:28:7-43
+	android:parentActivityName
+		ADDED from /Users/macintosh/Downloads/blokish-master/mobile/src/main/AndroidManifest.xml:29:7-39
+	android:label
+		ADDED from /Users/macintosh/Downloads/blokish-master/mobile/src/main/AndroidManifest.xml:27:38-73
+	android:theme
+		ADDED from /Users/macintosh/Downloads/blokish-master/mobile/src/main/AndroidManifest.xml:30:7-49
+	android:name
+		ADDED from /Users/macintosh/Downloads/blokish-master/mobile/src/main/AndroidManifest.xml:27:13-37
+activity#org.scoutant.blokish.Help
+ADDED from /Users/macintosh/Downloads/blokish-master/mobile/src/main/AndroidManifest.xml:32:3-35:9
+	android:screenOrientation
+		ADDED from /Users/macintosh/Downloads/blokish-master/mobile/src/main/AndroidManifest.xml:33:7-43
+	android:parentActivityName
+		ADDED from /Users/macintosh/Downloads/blokish-master/mobile/src/main/AndroidManifest.xml:34:7-39
+	android:label
+		ADDED from /Users/macintosh/Downloads/blokish-master/mobile/src/main/AndroidManifest.xml:32:34-54
+	android:name
+		ADDED from /Users/macintosh/Downloads/blokish-master/mobile/src/main/AndroidManifest.xml:32:13-33

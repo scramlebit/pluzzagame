@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/macintosh/.gradle/caches/transforms-1/files-1.1/design-27.0.2.aar/464911437bd6508438cc17f93f63674c/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="18"
+        optimize="true"
+        revision="27.0.3"
+        sha1="031cc16b7b6e77b3c050134ecab9fa5c2640a069">
+        <dex dex="/Users/macintosh/Downloads/blokish-master/mobile/build/intermediates/transforms/preDex/release/1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macintosh/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/ffb1e86c339d1c2084aba6ddca2161b5/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="18"
+        optimize="true"
+        revision="27.0.3"
+        sha1="b432e82447a3af781e927b9ba0bbb9fe2a496d4a">
+        <dex dex="/Users/macintosh/Downloads/blokish-master/mobile/build/intermediates/transforms/preDex/release/12.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macintosh/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/3ed0455d9de88412464835341a2528b0/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="18"
+        optimize="true"
+        revision="27.0.3"
+        sha1="caa03787689212c10939f308a55a8dc8a3333ed2">
+        <dex dex="/Users/macintosh/Downloads/blokish-master/mobile/build/intermediates/transforms/preDex/release/7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macintosh/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/434ca4f269b2fd83c16edad2cb4e7792/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="18"
+        optimize="true"
+        revision="27.0.3"
+        sha1="618f75fe11febf263e3234c7da7dc892232a5608">
+        <dex dex="/Users/macintosh/Downloads/blokish-master/mobile/build/intermediates/transforms/preDex/release/4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macintosh/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/11e0833beff24d4eebe77227886e228f/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="18"
+        optimize="true"
+        revision="27.0.3"
+        sha1="fe3916317a699975bcce0cba2d13fd2d8cf88922">
+        <dex dex="/Users/macintosh/Downloads/blokish-master/mobile/build/intermediates/transforms/preDex/release/6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macintosh/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.0.3/7d7f60c4783872861222166f6164215f8951c7b1/common-1.0.3.jar"
+        jumboMode="false"
+        min-sdk-version="18"
+        optimize="true"
+        revision="27.0.3"
+        sha1="7d7f60c4783872861222166f6164215f8951c7b1">
+        <dex dex="/Users/macintosh/Downloads/blokish-master/mobile/build/intermediates/transforms/preDex/release/15.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macintosh/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.2.aar/2d0b16c0755cddf7ade08781fb319521/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="18"
+        optimize="true"
+        revision="27.0.3"
+        sha1="bcd0bcdef85b31a656af76e39c0c95ce70800772">
+        <dex dex="/Users/macintosh/Downloads/blokish-master/mobile/build/intermediates/transforms/preDex/release/3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macintosh/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.0.2.aar/bb5e3478644954661a16c7bc25664d11/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="18"
+        optimize="true"
+        revision="27.0.3"
+        sha1="9296d6f092fcdba4fafb6ac26546a39babdab46a">
+        <dex dex="/Users/macintosh/Downloads/blokish-master/mobile/build/intermediates/transforms/preDex/release/9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macintosh/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/09860ef70635af4fec1d236f7b04a760/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="18"
+        optimize="true"
+        revision="27.0.3"
+        sha1="25c8cb628374f9a2d59ff9e1172753751e9a9f84">
+        <dex dex="/Users/macintosh/Downloads/blokish-master/mobile/build/intermediates/transforms/preDex/release/8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macintosh/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/27.0.2/b9ef4342c934a1a8b107506273dc8061662a322/support-annotations-27.0.2.jar"
+        jumboMode="false"
+        min-sdk-version="18"
+        optimize="true"
+        revision="27.0.3"
+        sha1="0b9ef4342c934a1a8b107506273dc8061662a322">
+        <dex dex="/Users/macintosh/Downloads/blokish-master/mobile/build/intermediates/transforms/preDex/release/13.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macintosh/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/4ae26a98c9cb97f70047f860a6824b47/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="18"
+        optimize="true"
+        revision="27.0.3"
+        sha1="ac2ce6027755bcf49442e70597bec0feb9064f68">
+        <dex dex="/Users/macintosh/Downloads/blokish-master/mobile/build/intermediates/transforms/preDex/release/5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macintosh/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/d32cc5c7ff7436b18846c7cc0386f196/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="18"
+        optimize="true"
+        revision="27.0.3"
+        sha1="ed6560f31a6a40b5965f5879d8f2eab1f68def05">
+        <dex dex="/Users/macintosh/Downloads/blokish-master/mobile/build/intermediates/transforms/preDex/release/10.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macintosh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/103aa2c70ae55377cd5407feca4ab64e/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="18"
+        optimize="true"
+        revision="27.0.3"
+        sha1="04cd0cacbedcb338f64665b88bad64d145325fbd">
+        <dex dex="/Users/macintosh/Downloads/blokish-master/mobile/build/intermediates/transforms/preDex/release/2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macintosh/.gradle/caches/transforms-1/files-1.1/transition-27.0.2.aar/e0d143418fbe9594eef34f3566b1de98/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="18"
+        optimize="true"
+        revision="27.0.3"
+        sha1="a5fa2e3704f51b30b7b47e12a3a2909728799583">
+        <dex dex="/Users/macintosh/Downloads/blokish-master/mobile/build/intermediates/transforms/preDex/release/11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macintosh/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/990282eac231c90532424a5e0c19fadc/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="18"
+        optimize="true"
+        revision="27.0.3"
+        sha1="d7cc5473b9cf4ea159a263cd477fb3ecb2987b96">
+        <dex dex="/Users/macintosh/Downloads/blokish-master/mobile/build/intermediates/transforms/preDex/release/14.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macintosh/.gradle/caches/modules-2/files-2.1/android.arch.core/common/1.0.0/a2d487452376193fc8c103dd2b9bd5f2b1b44563/common-1.0.0.jar"
+        jumboMode="false"
+        min-sdk-version="18"
+        optimize="true"
+        revision="27.0.3"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="/Users/macintosh/Downloads/blokish-master/mobile/build/intermediates/transforms/preDex/release/16.jar" />
+    </item>
+
+</items>

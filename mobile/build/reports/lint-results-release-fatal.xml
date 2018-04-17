@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<issues format="4" by="lint 3.0.1">
+
+    <issue
+        id="MissingTranslation"
+        severity="Fatal"
+        message="&quot;`aiLevelNames`&quot; is not translated in &quot;pt-BR&quot; (Portuguese: Brazil)"
+        category="Correctness:Messages"
+        priority="8"
+        summary="Incomplete translation"
+        explanation="If an application has more than one locale, then all the strings declared in one language should also be translated in all other languages.&#xA;&#xA;If the string should **not** be translated, you can add the attribute `translatable=&quot;false&quot;` on the `&lt;string>` element, or you can define all your non-translatable strings in a resource file called `donottranslate.xml`. Or, you can ignore the issue with a `tools:ignore=&quot;MissingTranslation&quot;` attribute.&#xA;&#xA;By default this detector allows regions of a language to just provide a subset of the strings and fall back to the standard language strings. You can require all regions to provide a full translation by setting the environment variable `ANDROID_LINT_COMPLETE_REGIONS`.&#xA;&#xA;You can tell lint (and other tools) which language is the default language in your `res/values/` folder by specifying `tools:locale=&quot;languageCode&quot;` for the root `&lt;resources>` element in your resource file. (The `tools` prefix refers to the namespace declaration `http://schemas.android.com/tools`.)"
+        errorLine1="  &lt;string-array name=&quot;aiLevelNames&quot;>"
+        errorLine2="                ~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="/Users/macintosh/Downloads/blokish-master/mobile/src/main/res/values/arrays.xml"
+            line="3"
+            column="17"/>
+    </issue>
+
+    <issue
+        id="MissingTranslation"
+        severity="Fatal"
+        message="&quot;`aiLevelValues`&quot; is not translated in &quot;es&quot; (Spanish), &quot;fr&quot; (French), &quot;pt-BR&quot; (Portuguese: Brazil), &quot;sv&quot; (Swedish)"
+        category="Correctness:Messages"
+        priority="8"
+        summary="Incomplete translation"
+        explanation="If an application has more than one locale, then all the strings declared in one language should also be translated in all other languages.&#xA;&#xA;If the string should **not** be translated, you can add the attribute `translatable=&quot;false&quot;` on the `&lt;string>` element, or you can define all your non-translatable strings in a resource file called `donottranslate.xml`. Or, you can ignore the issue with a `tools:ignore=&quot;MissingTranslation&quot;` attribute.&#xA;&#xA;By default this detector allows regions of a language to just provide a subset of the strings and fall back to the standard language strings. You can require all regions to provide a full translation by setting the environment variable `ANDROID_LINT_COMPLETE_REGIONS`.&#xA;&#xA;You can tell lint (and other tools) which language is the default language in your `res/values/` folder by specifying `tools:locale=&quot;languageCode&quot;` for the root `&lt;resources>` element in your resource file. (The `tools` prefix refers to the namespace declaration `http://schemas.android.com/tools`.)"
+        errorLine1="  &lt;string-array name=&quot;aiLevelValues&quot;>"
+        errorLine2="                ~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="/Users/macintosh/Downloads/blokish-master/mobile/src/main/res/values/arrays.xml"
+            line="10"
+            column="17"/>
+    </issue>
+
+    <issue
+        id="MissingTranslation"
+        severity="Fatal"
+        message="&quot;`twice_to_exit`&quot; is not translated in &quot;de&quot; (German), &quot;ru&quot; (Russian), &quot;sv&quot; (Swedish)"
+        category="Correctness:Messages"
+        priority="8"
+        summary="Incomplete translation"
+        explanation="If an application has more than one locale, then all the strings declared in one language should also be translated in all other languages.&#xA;&#xA;If the string should **not** be translated, you can add the attribute `translatable=&quot;false&quot;` on the `&lt;string>` element, or you can define all your non-translatable strings in a resource file called `donottranslate.xml`. Or, you can ignore the issue with a `tools:ignore=&quot;MissingTranslation&quot;` attribute.&#xA;&#xA;By default this detector allows regions of a language to just provide a subset of the strings and fall back to the standard language strings. You can require all regions to provide a full translation by setting the environment variable `ANDROID_LINT_COMPLETE_REGIONS`.&#xA;&#xA;You can tell lint (and other tools) which language is the default language in your `res/values/` folder by specifying `tools:locale=&quot;languageCode&quot;` for the root `&lt;resources>` element in your resource file. (The `tools` prefix refers to the namespace declaration `http://schemas.android.com/tools`.)"
+        errorLine1=" &lt;string name=&quot;twice_to_exit&quot;>Press twice to exit&lt;/string>"
+        errorLine2="         ~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="/Users/macintosh/Downloads/blokish-master/mobile/src/main/res/values/strings.xml"
+            line="18"
+            column="10"/>
+    </issue>
+
+    <issue
+        id="MissingTranslation"
+        severity="Fatal"
+        message="&quot;`review`&quot; is not translated in &quot;de&quot; (German), &quot;es&quot; (Spanish), &quot;ru&quot; (Russian)"
+        category="Correctness:Messages"
+        priority="8"
+        summary="Incomplete translation"
+        explanation="If an application has more than one locale, then all the strings declared in one language should also be translated in all other languages.&#xA;&#xA;If the string should **not** be translated, you can add the attribute `translatable=&quot;false&quot;` on the `&lt;string>` element, or you can define all your non-translatable strings in a resource file called `donottranslate.xml`. Or, you can ignore the issue with a `tools:ignore=&quot;MissingTranslation&quot;` attribute.&#xA;&#xA;By default this detector allows regions of a language to just provide a subset of the strings and fall back to the standard language strings. You can require all regions to provide a full translation by setting the environment variable `ANDROID_LINT_COMPLETE_REGIONS`.&#xA;&#xA;You can tell lint (and other tools) which language is the default language in your `res/values/` folder by specifying `tools:locale=&quot;languageCode&quot;` for the root `&lt;resources>` element in your resource file. (The `tools` prefix refers to the namespace declaration `http://schemas.android.com/tools`.)"
+        errorLine1=" &lt;string name=&quot;review&quot;>Review&lt;/string>"
+        errorLine2="         ~~~~~~~~~~~~~">
+        <location
+            file="/Users/macintosh/Downloads/blokish-master/mobile/src/main/res/values/strings.xml"
+            line="59"
+            column="10"/>
+    </issue>
+
+    <issue
+        id="MissingTranslation"
+        severity="Fatal"
+        message="&quot;`video_description_1`&quot; is not translated in &quot;es&quot; (Spanish), &quot;fr&quot; (French), &quot;ru&quot; (Russian), &quot;sv&quot; (Swedish)"
+        category="Correctness:Messages"
+        priority="8"
+        summary="Incomplete translation"
+        explanation="If an application has more than one locale, then all the strings declared in one language should also be translated in all other languages.&#xA;&#xA;If the string should **not** be translated, you can add the attribute `translatable=&quot;false&quot;` on the `&lt;string>` element, or you can define all your non-translatable strings in a resource file called `donottranslate.xml`. Or, you can ignore the issue with a `tools:ignore=&quot;MissingTranslation&quot;` attribute.&#xA;&#xA;By default this detector allows regions of a language to just provide a subset of the strings and fall back to the standard language strings. You can require all regions to provide a full translation by setting the environment variable `ANDROID_LINT_COMPLETE_REGIONS`.&#xA;&#xA;You can tell lint (and other tools) which language is the default language in your `res/values/` folder by specifying `tools:locale=&quot;languageCode&quot;` for the root `&lt;resources>` element in your resource file. (The `tools` prefix refers to the namespace declaration `http://schemas.android.com/tools`.)"
+        errorLine1=" &lt;string name=&quot;video_description_1&quot;>Click above to watch demo on YouTube&lt;/string>"
+        errorLine2="         ~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="/Users/macintosh/Downloads/blokish-master/mobile/src/main/res/values/strings.xml"
+            line="63"
+            column="10"/>
+    </issue>
+
+    <issue
+        id="MissingTranslation"
+        severity="Fatal"
+        message="&quot;`video_description_2`&quot; is not translated in &quot;es&quot; (Spanish), &quot;fr&quot; (French), &quot;ru&quot; (Russian), &quot;sv&quot; (Swedish)"
+        category="Correctness:Messages"
+        priority="8"
+        summary="Incomplete translation"
+        explanation="If an application has more than one locale, then all the strings declared in one language should also be translated in all other languages.&#xA;&#xA;If the string should **not** be translated, you can add the attribute `translatable=&quot;false&quot;` on the `&lt;string>` element, or you can define all your non-translatable strings in a resource file called `donottranslate.xml`. Or, you can ignore the issue with a `tools:ignore=&quot;MissingTranslation&quot;` attribute.&#xA;&#xA;By default this detector allows regions of a language to just provide a subset of the strings and fall back to the standard language strings. You can require all regions to provide a full translation by setting the environment variable `ANDROID_LINT_COMPLETE_REGIONS`.&#xA;&#xA;You can tell lint (and other tools) which language is the default language in your `res/values/` folder by specifying `tools:locale=&quot;languageCode&quot;` for the root `&lt;resources>` element in your resource file. (The `tools` prefix refers to the namespace declaration `http://schemas.android.com/tools`.)"
+        errorLine1=" &lt;string name=&quot;video_description_2&quot;>You can enlarge video rotating phone in landscape mode&lt;/string>"
+        errorLine2="         ~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="/Users/macintosh/Downloads/blokish-master/mobile/src/main/res/values/strings.xml"
+            line="64"
+            column="10"/>
+    </issue>
+
+    <issue
+        id="MissingTranslation"
+        severity="Fatal"
+        message="&quot;`rules_title`&quot; is not translated in &quot;es&quot; (Spanish), &quot;fr&quot; (French), &quot;ru&quot; (Russian), &quot;sv&quot; (Swedish)"
+        category="Correctness:Messages"
+        priority="8"
+        summary="Incomplete translation"
+        explanation="If an application has more than one locale, then all the strings declared in one language should also be translated in all other languages.&#xA;&#xA;If the string should **not** be translated, you can add the attribute `translatable=&quot;false&quot;` on the `&lt;string>` element, or you can define all your non-translatable strings in a resource file called `donottranslate.xml`. Or, you can ignore the issue with a `tools:ignore=&quot;MissingTranslation&quot;` attribute.&#xA;&#xA;By default this detector allows regions of a language to just provide a subset of the strings and fall back to the standard language strings. You can require all regions to provide a full translation by setting the environment variable `ANDROID_LINT_COMPLETE_REGIONS`.&#xA;&#xA;You can tell lint (and other tools) which language is the default language in your `res/values/` folder by specifying `tools:locale=&quot;languageCode&quot;` for the root `&lt;resources>` element in your resource file. (The `tools` prefix refers to the namespace declaration `http://schemas.android.com/tools`.)"
+        errorLine1=" &lt;string name=&quot;rules_title&quot;>Rules of the game Blokus Classic&lt;/string>"
+        errorLine2="         ~~~~~~~~~~~~~~~~~~">
+        <location
+            file="/Users/macintosh/Downloads/blokish-master/mobile/src/main/res/values/strings.xml"
+            line="66"
+            column="10"/>
+    </issue>
+
+    <issue
+        id="MissingTranslation"
+        severity="Fatal"
+        message="&quot;`rules_text_1`&quot; is not translated in &quot;es&quot; (Spanish), &quot;fr&quot; (French), &quot;ru&quot; (Russian), &quot;sv&quot; (Swedish)"
+        category="Correctness:Messages"
+        priority="8"
+        summary="Incomplete translation"
+        explanation="If an application has more than one locale, then all the strings declared in one language should also be translated in all other languages.&#xA;&#xA;If the string should **not** be translated, you can add the attribute `translatable=&quot;false&quot;` on the `&lt;string>` element, or you can define all your non-translatable strings in a resource file called `donottranslate.xml`. Or, you can ignore the issue with a `tools:ignore=&quot;MissingTranslation&quot;` attribute.&#xA;&#xA;By default this detector allows regions of a language to just provide a subset of the strings and fall back to the standard language strings. You can require all regions to provide a full translation by setting the environment variable `ANDROID_LINT_COMPLETE_REGIONS`.&#xA;&#xA;You can tell lint (and other tools) which language is the default language in your `res/values/` folder by specifying `tools:locale=&quot;languageCode&quot;` for the root `&lt;resources>` element in your resource file. (The `tools` prefix refers to the namespace declaration `http://schemas.android.com/tools`.)"
+        errorLine1=" &lt;string name=&quot;rules_text_1&quot;>"
+        errorLine2="         ~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="/Users/macintosh/Downloads/blokish-master/mobile/src/main/res/values/strings.xml"
+            line="67"
+            column="10"/>
+    </issue>
+
+    <issue
+        id="MissingTranslation"
+        severity="Fatal"
+        message="&quot;`rules_text_2`&quot; is not translated in &quot;es&quot; (Spanish), &quot;fr&quot; (French), &quot;ru&quot; (Russian), &quot;sv&quot; (Swedish)"
+        category="Correctness:Messages"
+        priority="8"
+        summary="Incomplete translation"
+        explanation="If an application has more than one locale, then all the strings declared in one language should also be translated in all other languages.&#xA;&#xA;If the string should **not** be translated, you can add the attribute `translatable=&quot;false&quot;` on the `&lt;string>` element, or you can define all your non-translatable strings in a resource file called `donottranslate.xml`. Or, you can ignore the issue with a `tools:ignore=&quot;MissingTranslation&quot;` attribute.&#xA;&#xA;By default this detector allows regions of a language to just provide a subset of the strings and fall back to the standard language strings. You can require all regions to provide a full translation by setting the environment variable `ANDROID_LINT_COMPLETE_REGIONS`.&#xA;&#xA;You can tell lint (and other tools) which language is the default language in your `res/values/` folder by specifying `tools:locale=&quot;languageCode&quot;` for the root `&lt;resources>` element in your resource file. (The `tools` prefix refers to the namespace declaration `http://schemas.android.com/tools`.)"
+        errorLine1=" &lt;string name=&quot;rules_text_2&quot;>"
+        errorLine2="         ~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="/Users/macintosh/Downloads/blokish-master/mobile/src/main/res/values/strings.xml"
+            line="74"
+            column="10"/>
+    </issue>
+
+    <issue
+        id="MissingTranslation"
+        severity="Fatal"
+        message="&quot;`howToPlay_title`&quot; is not translated in &quot;es&quot; (Spanish), &quot;fr&quot; (French), &quot;ru&quot; (Russian), &quot;sv&quot; (Swedish)"
+        category="Correctness:Messages"
+        priority="8"
+        summary="Incomplete translation"
+        explanation="If an application has more than one locale, then all the strings declared in one language should also be translated in all other languages.&#xA;&#xA;If the string should **not** be translated, you can add the attribute `translatable=&quot;false&quot;` on the `&lt;string>` element, or you can define all your non-translatable strings in a resource file called `donottranslate.xml`. Or, you can ignore the issue with a `tools:ignore=&quot;MissingTranslation&quot;` attribute.&#xA;&#xA;By default this detector allows regions of a language to just provide a subset of the strings and fall back to the standard language strings. You can require all regions to provide a full translation by setting the environment variable `ANDROID_LINT_COMPLETE_REGIONS`.&#xA;&#xA;You can tell lint (and other tools) which language is the default language in your `res/values/` folder by specifying `tools:locale=&quot;languageCode&quot;` for the root `&lt;resources>` element in your resource file. (The `tools` prefix refers to the namespace declaration `http://schemas.android.com/tools`.)"
+        errorLine1=" &lt;string name=&quot;howToPlay_title&quot;>How to play with Blokish Android app&lt;/string>"
+        errorLine2="         ~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="/Users/macintosh/Downloads/blokish-master/mobile/src/main/res/values/strings.xml"
+            line="80"
+            column="10"/>
+    </issue>
+
+    <issue
+        id="MissingTranslation"
+        severity="Fatal"
+        message="&quot;`howToPlay_text_1`&quot; is not translated in &quot;es&quot; (Spanish), &quot;fr&quot; (French), &quot;ru&quot; (Russian), &quot;sv&quot; (Swedish)"
+        category="Correctness:Messages"
+        priority="8"
+        summary="Incomplete translation"
+        explanation="If an application has more than one locale, then all the strings declared in one language should also be translated in all other languages.&#xA;&#xA;If the string should **not** be translated, you can add the attribute `translatable=&quot;false&quot;` on the `&lt;string>` element, or you can define all your non-translatable strings in a resource file called `donottranslate.xml`. Or, you can ignore the issue with a `tools:ignore=&quot;MissingTranslation&quot;` attribute.&#xA;&#xA;By default this detector allows regions of a language to just provide a subset of the strings and fall back to the standard language strings. You can require all regions to provide a full translation by setting the environment variable `ANDROID_LINT_COMPLETE_REGIONS`.&#xA;&#xA;You can tell lint (and other tools) which language is the default language in your `res/values/` folder by specifying `tools:locale=&quot;languageCode&quot;` for the root `&lt;resources>` element in your resource file. (The `tools` prefix refers to the namespace declaration `http://schemas.android.com/tools`.)"
+        errorLine1=" &lt;string name=&quot;howToPlay_text_1&quot;>"
+        errorLine2="         ~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="/Users/macintosh/Downloads/blokish-master/mobile/src/main/res/values/strings.xml"
+            line="81"
+            column="10"/>
+    </issue>
+
+    <issue
+        id="MissingTranslation"
+        severity="Fatal"
+        message="&quot;`howToPlay_text_2`&quot; is not translated in &quot;es&quot; (Spanish), &quot;fr&quot; (French), &quot;ru&quot; (Russian), &quot;sv&quot; (Swedish)"
+        category="Correctness:Messages"
+        priority="8"
+        summary="Incomplete translation"
+        explanation="If an application has more than one locale, then all the strings declared in one language should also be translated in all other languages.&#xA;&#xA;If the string should **not** be translated, you can add the attribute `translatable=&quot;false&quot;` on the `&lt;string>` element, or you can define all your non-translatable strings in a resource file called `donottranslate.xml`. Or, you can ignore the issue with a `tools:ignore=&quot;MissingTranslation&quot;` attribute.&#xA;&#xA;By default this detector allows regions of a language to just provide a subset of the strings and fall back to the standard language strings. You can require all regions to provide a full translation by setting the environment variable `ANDROID_LINT_COMPLETE_REGIONS`.&#xA;&#xA;You can tell lint (and other tools) which language is the default language in your `res/values/` folder by specifying `tools:locale=&quot;languageCode&quot;` for the root `&lt;resources>` element in your resource file. (The `tools` prefix refers to the namespace declaration `http://schemas.android.com/tools`.)"
+        errorLine1=" &lt;string name=&quot;howToPlay_text_2&quot;>- Select an drag a piece onto the board. You can now drag it around easily putting the finger on the large grey circle&lt;/string>"
+        errorLine2="         ~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="/Users/macintosh/Downloads/blokish-master/mobile/src/main/res/values/strings.xml"
+            line="85"
+            column="10"/>
+    </issue>
+
+    <issue
+        id="MissingTranslation"
+        severity="Fatal"
+        message="&quot;`howToPlay_text_3`&quot; is not translated in &quot;es&quot; (Spanish), &quot;fr&quot; (French), &quot;ru&quot; (Russian), &quot;sv&quot; (Swedish)"
+        category="Correctness:Messages"
+        priority="8"
+        summary="Incomplete translation"
+        explanation="If an application has more than one locale, then all the strings declared in one language should also be translated in all other languages.&#xA;&#xA;If the string should **not** be translated, you can add the attribute `translatable=&quot;false&quot;` on the `&lt;string>` element, or you can define all your non-translatable strings in a resource file called `donottranslate.xml`. Or, you can ignore the issue with a `tools:ignore=&quot;MissingTranslation&quot;` attribute.&#xA;&#xA;By default this detector allows regions of a language to just provide a subset of the strings and fall back to the standard language strings. You can require all regions to provide a full translation by setting the environment variable `ANDROID_LINT_COMPLETE_REGIONS`.&#xA;&#xA;You can tell lint (and other tools) which language is the default language in your `res/values/` folder by specifying `tools:locale=&quot;languageCode&quot;` for the root `&lt;resources>` element in your resource file. (The `tools` prefix refers to the namespace declaration `http://schemas.android.com/tools`.)"
+        errorLine1=" &lt;string name=&quot;howToPlay_text_3&quot;>- Rotate the piece using one the handles&lt;/string>"
+        errorLine2="         ~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="/Users/macintosh/Downloads/blokish-master/mobile/src/main/res/values/strings.xml"
+            line="86"
+            column="10"/>
+    </issue>
+
+    <issue
+        id="MissingTranslation"
+        severity="Fatal"
+        message="&quot;`howToPlay_text_4`&quot; is not translated in &quot;es&quot; (Spanish), &quot;fr&quot; (French), &quot;ru&quot; (Russian), &quot;sv&quot; (Swedish)"
+        category="Correctness:Messages"
+        priority="8"
+        summary="Incomplete translation"
+        explanation="If an application has more than one locale, then all the strings declared in one language should also be translated in all other languages.&#xA;&#xA;If the string should **not** be translated, you can add the attribute `translatable=&quot;false&quot;` on the `&lt;string>` element, or you can define all your non-translatable strings in a resource file called `donottranslate.xml`. Or, you can ignore the issue with a `tools:ignore=&quot;MissingTranslation&quot;` attribute.&#xA;&#xA;By default this detector allows regions of a language to just provide a subset of the strings and fall back to the standard language strings. You can require all regions to provide a full translation by setting the environment variable `ANDROID_LINT_COMPLETE_REGIONS`.&#xA;&#xA;You can tell lint (and other tools) which language is the default language in your `res/values/` folder by specifying `tools:locale=&quot;languageCode&quot;` for the root `&lt;resources>` element in your resource file. (The `tools` prefix refers to the namespace declaration `http://schemas.android.com/tools`.)"
+        errorLine1=" &lt;string name=&quot;howToPlay_text_4&quot;>"
+        errorLine2="         ~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="/Users/macintosh/Downloads/blokish-master/mobile/src/main/res/values/strings.xml"
+            line="87"
+            column="10"/>
+    </issue>
+
+    <issue
+        id="MissingTranslation"
+        severity="Fatal"
+        message="&quot;`howToPlay_text_5`&quot; is not translated in &quot;es&quot; (Spanish), &quot;fr&quot; (French), &quot;ru&quot; (Russian), &quot;sv&quot; (Swedish)"
+        category="Correctness:Messages"
+        priority="8"
+        summary="Incomplete translation"
+        explanation="If an application has more than one locale, then all the strings declared in one language should also be translated in all other languages.&#xA;&#xA;If the string should **not** be translated, you can add the attribute `translatable=&quot;false&quot;` on the `&lt;string>` element, or you can define all your non-translatable strings in a resource file called `donottranslate.xml`. Or, you can ignore the issue with a `tools:ignore=&quot;MissingTranslation&quot;` attribute.&#xA;&#xA;By default this detector allows regions of a language to just provide a subset of the strings and fall back to the standard language strings. You can require all regions to provide a full translation by setting the environment variable `ANDROID_LINT_COMPLETE_REGIONS`.&#xA;&#xA;You can tell lint (and other tools) which language is the default language in your `res/values/` folder by specifying `tools:locale=&quot;languageCode&quot;` for the root `&lt;resources>` element in your resource file. (The `tools` prefix refers to the namespace declaration `http://schemas.android.com/tools`.)"
+        errorLine1=" &lt;string name=&quot;howToPlay_text_5&quot;>"
+        errorLine2="         ~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="/Users/macintosh/Downloads/blokish-master/mobile/src/main/res/values/strings.xml"
+            line="93"
+            column="10"/>
+    </issue>
+
+    <issue
+        id="ExtraTranslation"
+        severity="Fatal"
+        message="Non-translatable resources should only be defined in the base `values/` folder"
+        category="Correctness:Messages"
+        priority="6"
+        summary="Extra translation"
+        explanation="If a string appears in a specific language translation file, but there is no corresponding string in the default locale, then this string is probably unused. (It&apos;s technically possible that your application is only intended to run in a specific locale, but it&apos;s still a good idea to provide a fallback.).&#xA;&#xA;Note that these strings can lead to crashes if the string is looked up on any locale not providing a translation, so it&apos;s important to clean them up."
+        errorLine1=" &lt;string name=&quot;about&quot; translatable=&quot;false&quot;>"
+        errorLine2="                      ~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="/Users/macintosh/Downloads/blokish-master/mobile/src/main/res/values-pt-rBR/strings.xml"
+            line="98"
+            column="23"/>
+    </issue>
+
+</issues>
